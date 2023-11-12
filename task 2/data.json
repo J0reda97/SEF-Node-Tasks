@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "fname": "John",
+    "lname": "Smith",
+    "age": "30",
+    "city": "New York"
+  },
+  {
+    "id": "2",
+    "fname": "Emily",
+    "lname": "Johnson",
+    "age": "25",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "3",
+    "fname": "Michael",
+    "lname": "Williams",
+    "age": "35",
+    "city": "Chicago"
+  },
+  {
+    "id": "5",
+    "fname": "David",
+    "lname": "Taylor",
+    "age": "45",
+    "city": "Miami"
+  },
+  {
+    "id": "7",
+    "fname": "Matthew",
+    "lname": "Thompson",
+    "age": "27",
+    "city": "Seattle"
+  }
+]
